@@ -1,0 +1,20 @@
+[
+  {
+    "id_producto": "1",
+    "nombre": "Hamburguesa Especial",
+    "precio": 8500.0,
+    "stock": 25
+  },
+  {
+    "id_producto": "2",
+    "nombre": "Papas Fritas Medianas",
+    "precio": 3000.0,
+    "stock": 50
+  },
+  {
+    "id_producto": "3",
+    "nombre": "Bebida 500ml",
+    "precio": 2000.0,
+    "stock": 40
+  }
+]

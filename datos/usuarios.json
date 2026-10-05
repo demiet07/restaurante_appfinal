@@ -1,0 +1,23 @@
+[
+  {
+    "id_usuario": "1",
+    "nombre": "Administrador Principal",
+    "usuario": "admin",
+    "clave": "admin123",
+    "rol": "Administrador"
+  },
+  {
+    "id_usuario": "2",
+    "nombre": "Carlos Mesero",
+    "usuario": "cmesero",
+    "clave": "1234",
+    "rol": "Empleado"
+  },
+  {
+    "id_usuario": "3",
+    "nombre": "María Cliente",
+    "usuario": "mcliente",
+    "clave": "1234",
+    "rol": "Cliente"
+  }
+]
